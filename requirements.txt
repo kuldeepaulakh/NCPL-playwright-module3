@@ -1,2 +1,3 @@
 pytest
-pytest-playwrightpython -m pip install -r requirements.txt
+pytest-playwright
+fastapi
